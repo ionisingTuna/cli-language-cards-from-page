@@ -1,0 +1,12 @@
+{
+  "name": "language-level-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "extract-words": "./index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
